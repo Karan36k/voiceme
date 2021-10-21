@@ -5,7 +5,7 @@ massivefile.com-  voiceme is a tool for someone who likes to listen to his/her o
 
 ## preview
 this is how the interface looks
-# preview - ![https://massivefile.com/voiceme](https://github.com/karan36k/voiceme/blob/main/img-3.PNG?raw=true)
+# preview - ![https://massivefile.com/voiceme](https://github.com/karan36k/voiceme/blob/main/img-3.png?raw=true)
 
 demo at - https://massivefile.com/voiceme
 
